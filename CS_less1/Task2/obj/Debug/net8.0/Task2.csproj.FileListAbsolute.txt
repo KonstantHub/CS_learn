@@ -1,0 +1,15 @@
+D:\Разработчик\CS_learn\CS_less1\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик\CS_learn\CS_less1\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Разработчик\CS_learn\CS_less1\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Разработчик\CS_learn\CS_less1\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Разработчик\CS_learn\CS_less1\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\Разработчик\CS_learn\CS_less1\Task2\bin\Debug\net8.0\Task2.exe
+D:\Разработчик\CS_learn\CS_less1\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Разработчик\CS_learn\CS_less1\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Разработчик\CS_learn\CS_less1\Task2\bin\Debug\net8.0\Task2.dll
+D:\Разработчик\CS_learn\CS_less1\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Разработчик\CS_learn\CS_less1\Task2\obj\Debug\net8.0\Task2.dll
+D:\Разработчик\CS_learn\CS_less1\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Разработчик\CS_learn\CS_less1\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Разработчик\CS_learn\CS_less1\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Разработчик\CS_learn\CS_less1\Task2\obj\Debug\net8.0\ref\Task2.dll
