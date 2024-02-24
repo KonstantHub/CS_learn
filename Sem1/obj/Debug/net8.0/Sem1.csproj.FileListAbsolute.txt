@@ -1,0 +1,15 @@
+D:\Разработчик\CS_learn\Sem1\bin\Debug\net8.0\Sem1.exe
+D:\Разработчик\CS_learn\Sem1\bin\Debug\net8.0\Sem1.deps.json
+D:\Разработчик\CS_learn\Sem1\bin\Debug\net8.0\Sem1.runtimeconfig.json
+D:\Разработчик\CS_learn\Sem1\bin\Debug\net8.0\Sem1.dll
+D:\Разработчик\CS_learn\Sem1\bin\Debug\net8.0\Sem1.pdb
+D:\Разработчик\CS_learn\Sem1\obj\Debug\net8.0\Sem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик\CS_learn\Sem1\obj\Debug\net8.0\Sem1.AssemblyInfoInputs.cache
+D:\Разработчик\CS_learn\Sem1\obj\Debug\net8.0\Sem1.AssemblyInfo.cs
+D:\Разработчик\CS_learn\Sem1\obj\Debug\net8.0\Sem1.csproj.CoreCompileInputs.cache
+D:\Разработчик\CS_learn\Sem1\obj\Debug\net8.0\Sem1.sourcelink.json
+D:\Разработчик\CS_learn\Sem1\obj\Debug\net8.0\Sem1.dll
+D:\Разработчик\CS_learn\Sem1\obj\Debug\net8.0\refint\Sem1.dll
+D:\Разработчик\CS_learn\Sem1\obj\Debug\net8.0\Sem1.pdb
+D:\Разработчик\CS_learn\Sem1\obj\Debug\net8.0\Sem1.genruntimeconfig.cache
+D:\Разработчик\CS_learn\Sem1\obj\Debug\net8.0\ref\Sem1.dll
