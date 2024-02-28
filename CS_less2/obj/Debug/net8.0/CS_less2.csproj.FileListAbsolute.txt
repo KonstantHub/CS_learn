@@ -1,0 +1,5 @@
+D:\Разработчик\CS_learn\CS_less2\obj\Debug\net8.0\CS_less2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик\CS_learn\CS_less2\obj\Debug\net8.0\CS_less2.AssemblyInfoInputs.cache
+D:\Разработчик\CS_learn\CS_less2\obj\Debug\net8.0\CS_less2.AssemblyInfo.cs
+D:\Разработчик\CS_learn\CS_less2\obj\Debug\net8.0\CS_less2.csproj.CoreCompileInputs.cache
+D:\Разработчик\CS_learn\CS_less2\obj\Debug\net8.0\CS_less2.sourcelink.json
