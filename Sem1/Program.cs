@@ -34,3 +34,39 @@
 // {
 //    Console.WriteLine("III");
 //     }
+// int num = 88;
+// int first = num / 10;
+// int sec = num % 10;
+// if (first >= sec)
+// {
+//     Console.WriteLine(first);
+// }
+// else
+// {
+//     Console.WriteLine(sec);
+// }
+
+int n = 196;
+if (n < 10)
+{
+    Console.Write(n);
+}
+else
+{
+    while (n > 0)
+    {
+        int curDig = n % 10;
+        n = n / 10;
+        if (n > 0)
+        {
+            Console.Write(curDig + ",");
+        }
+        else
+        {
+            Console.Write(curDig);
+        }
+    }
+    {
+
+    }
+}
