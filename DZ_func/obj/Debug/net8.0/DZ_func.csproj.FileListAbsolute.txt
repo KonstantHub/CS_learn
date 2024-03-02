@@ -1,0 +1,15 @@
+D:\Разработчик\CS_learn\DZ_func\obj\Debug\net8.0\DZ_func.GeneratedMSBuildEditorConfig.editorconfig
+D:\Разработчик\CS_learn\DZ_func\obj\Debug\net8.0\DZ_func.AssemblyInfoInputs.cache
+D:\Разработчик\CS_learn\DZ_func\obj\Debug\net8.0\DZ_func.AssemblyInfo.cs
+D:\Разработчик\CS_learn\DZ_func\obj\Debug\net8.0\DZ_func.csproj.CoreCompileInputs.cache
+D:\Разработчик\CS_learn\DZ_func\obj\Debug\net8.0\DZ_func.sourcelink.json
+D:\Разработчик\CS_learn\DZ_func\bin\Debug\net8.0\DZ_func.exe
+D:\Разработчик\CS_learn\DZ_func\bin\Debug\net8.0\DZ_func.deps.json
+D:\Разработчик\CS_learn\DZ_func\bin\Debug\net8.0\DZ_func.runtimeconfig.json
+D:\Разработчик\CS_learn\DZ_func\bin\Debug\net8.0\DZ_func.dll
+D:\Разработчик\CS_learn\DZ_func\bin\Debug\net8.0\DZ_func.pdb
+D:\Разработчик\CS_learn\DZ_func\obj\Debug\net8.0\DZ_func.dll
+D:\Разработчик\CS_learn\DZ_func\obj\Debug\net8.0\refint\DZ_func.dll
+D:\Разработчик\CS_learn\DZ_func\obj\Debug\net8.0\DZ_func.pdb
+D:\Разработчик\CS_learn\DZ_func\obj\Debug\net8.0\DZ_func.genruntimeconfig.cache
+D:\Разработчик\CS_learn\DZ_func\obj\Debug\net8.0\ref\DZ_func.dll
